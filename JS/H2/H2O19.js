@@ -1,6 +1,9 @@
-var aantalRijenRaster = 6;
-var aantalKolommenRaster = 9;
-var celGrootte;
+ var raster= {
+  aantalRijenRaster : 6,
+  aantalKolommenRaster : 6,
+  celGrootte: null,
+  tekenRaster
+ }
 
 var animatie = [];
 var aantalBeeldjes = 6;
